@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dipalibirajdar
-- I am Associate Software Engineer. 
+- I am a Associate Software Engineer. 
 - Skills :- React. js, Html, Css, JavaScript, Git, Github, Bitbuck, Jira. 
 - Looking for Front End Developer Role. 
 <!---
